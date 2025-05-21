@@ -9,7 +9,7 @@ This repository hosts the analysis scripts and documentation for the "Human Acti
 - **run_analysis.R**: Primary R script that performs data merging, extraction of mean and standard deviation measurements, descriptive labeling, and creation of the final tidy data set.
 - **CodeBook.md**: Comprehensive code book outlining each variable, data sources, transformations applied, and units of measurement.
 - **README.md**: This document explaining repository structure and usage instructions.
-- **UCI HAR Dataset/**: Directory containing the original unzipped data files from the UCI Machine Learning Repository.
+- **UCI HAR Dataset/**: (http://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 
 ## Prerequisites
 
