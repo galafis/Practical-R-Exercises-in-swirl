@@ -69,4 +69,4 @@ Refer to **CodeBook.md** for:
 
 **Gabriel Demetrios Lafis**
 
-This repository contains original work by the author.
+
